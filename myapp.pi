@@ -1,0 +1,17 @@
+from flask import flask
+app = Flask(_name_)
+
+@app.route("/")
+def.index():
+ return{
+    "status": "SUCCESS",
+    "data":{
+        "rengo": 18447207'
+        "name":"ANISH"
+        "email":"aish.sarkar@msds.christuniversity.in"
+
+    }
+ }
+
+ if "_name_"==_main_:
+ app.run(debug=True)
